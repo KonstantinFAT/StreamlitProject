@@ -1,4 +1,4 @@
-# StreamlitProject
+# StreamlitProject - https://appproject-wdzjhmtk2maxaen8ide3ux.streamlit.app/
 Приложение предназначено для анализа данных об инцидентах в нефтегазовой отрасли. Оно позволяет загружать, фильтровать, визуализировать и анализировать статистику происшествий.
 ## Cсылка на датасет: https://www.kaggle.com/datasets/usdot/pipeline-accidents/data
 ## Автор датасета: https://www.kaggle.com/organizations/usdot
